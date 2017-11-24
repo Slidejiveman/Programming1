@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: square, Configuration: Debug Win32 ------
+1>  square.cpp
+1>  square.vcxproj -> C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Lab06_Tasks\Debug\square.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

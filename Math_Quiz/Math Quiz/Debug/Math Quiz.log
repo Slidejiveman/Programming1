@@ -1,0 +1,10 @@
+﻿Build started 10/6/2014 11:18:29 AM.
+     1>Project "C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\Math Quiz.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Debug\Math Quiz.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Debug\Math Quiz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Debug\Math Quiz.lib" /MACHINE:X86 Debug\MathQuiz1.obj
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Debug\Math Quiz.exe'
+     1>Done Building Project "C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\Math Quiz.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.06

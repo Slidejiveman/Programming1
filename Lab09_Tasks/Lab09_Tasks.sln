@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "weather", "weather\weather.vcxproj", "{A31AB360-D3F6-4FE8-B17C-DD9BEAA3B934}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "salsa", "salsa\salsa.vcxproj", "{F3935841-4D30-49AD-A0FC-BDAD374D7E6F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tictactoe", "tictactoe\tictactoe.vcxproj", "{A3ED13FB-E910-4518-A52F-9DD29631CF08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort", "sort\sort.vcxproj", "{6272C542-084E-472B-8109-85CED4432E80}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "password", "password\password.vcxproj", "{3270639C-8ABC-4C32-9A79-93681376B525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31AB360-D3F6-4FE8-B17C-DD9BEAA3B934}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A31AB360-D3F6-4FE8-B17C-DD9BEAA3B934}.Release|Win32.ActiveCfg = Release|Win32
+		{A31AB360-D3F6-4FE8-B17C-DD9BEAA3B934}.Release|Win32.Build.0 = Release|Win32
+		{F3935841-4D30-49AD-A0FC-BDAD374D7E6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3935841-4D30-49AD-A0FC-BDAD374D7E6F}.Debug|Win32.Build.0 = Debug|Win32
+		{F3935841-4D30-49AD-A0FC-BDAD374D7E6F}.Release|Win32.ActiveCfg = Release|Win32
+		{F3935841-4D30-49AD-A0FC-BDAD374D7E6F}.Release|Win32.Build.0 = Release|Win32
+		{A3ED13FB-E910-4518-A52F-9DD29631CF08}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3ED13FB-E910-4518-A52F-9DD29631CF08}.Debug|Win32.Build.0 = Debug|Win32
+		{A3ED13FB-E910-4518-A52F-9DD29631CF08}.Release|Win32.ActiveCfg = Release|Win32
+		{A3ED13FB-E910-4518-A52F-9DD29631CF08}.Release|Win32.Build.0 = Release|Win32
+		{6272C542-084E-472B-8109-85CED4432E80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6272C542-084E-472B-8109-85CED4432E80}.Debug|Win32.Build.0 = Debug|Win32
+		{6272C542-084E-472B-8109-85CED4432E80}.Release|Win32.ActiveCfg = Release|Win32
+		{6272C542-084E-472B-8109-85CED4432E80}.Release|Win32.Build.0 = Release|Win32
+		{3270639C-8ABC-4C32-9A79-93681376B525}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3270639C-8ABC-4C32-9A79-93681376B525}.Debug|Win32.Build.0 = Debug|Win32
+		{3270639C-8ABC-4C32-9A79-93681376B525}.Release|Win32.ActiveCfg = Release|Win32
+		{3270639C-8ABC-4C32-9A79-93681376B525}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

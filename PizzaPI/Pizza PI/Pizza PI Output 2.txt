@@ -1,0 +1,16 @@
+﻿1>------ Rebuild All started: Project: Pizza PI, Configuration: Debug Win32 ------
+1>  stdafx.cpp
+1>  Source.cpp
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\source.cpp(10): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+1>          Add directive to 'stdafx.h' or rebuild precompiled header
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\source.cpp(11): warning C4627: '#include <cmath>': skipped when looking for precompiled header use
+1>          Add directive to 'stdafx.h' or rebuild precompiled header
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\source.cpp(38): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+1>  Pizza PI.cpp
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\pizza pi.cpp(10): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+1>          Add directive to 'stdafx.h' or rebuild precompiled header
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\pizza pi.cpp(11): warning C4627: '#include <cmath>': skipped when looking for precompiled header use
+1>          Add directive to 'stdafx.h' or rebuild precompiled header
+1>c:\users\ryderdale\documents\visual studio 2013\projects\pizza pi\pizza pi\pizza pi.cpp(38): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+1>  Generating Code...
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========

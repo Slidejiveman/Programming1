@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: mathquiz3, Configuration: Debug Win32 ------
+1>  mathquiz3.cpp
+1>c:\users\ryderdale\documents\visual studio 2013\projects\mathquiz3\mathquiz3\mathquiz3.cpp(29): warning C4244: 'initializing' : conversion from 'time_t' to 'unsigned int', possible loss of data
+1>  mathquiz3.vcxproj -> C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\mathquiz3\Debug\mathquiz3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

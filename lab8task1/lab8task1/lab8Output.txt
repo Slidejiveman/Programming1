@@ -1,0 +1,76 @@
+
+PROGRAMMING II LAB 8 OUTPUT
+
+Test 1: Cars/People enter park. No thresholds crossed.
+
+Expecting no output. I am allowing 9,999 cars and 29,999 people enter.
+
+Test 2: Cars/People enter park. People threshold is exceeded but car threshold is not
+.Enter should display appropriate warning. I am allowing 2 cars and 6 people to enter
+
+***Warning, park capacity exceeded!***
+
+The number of cars in the park is: 9997
+The number of people in the park is: 30005
+
+Test 3: Cars/People leave park. No thresholds are crossed
+.Expecting no output. I am allowing 2 cars and 2 people to leave.
+
+Test 4: Cars/People leave park. Only people drop below threshold.
+Exit displays the people message. Two cars are leaving and 6 people are leaving.
+
+***Notice: There are now less than 30,000 people in the park.***
+
+The number of cars in the park is: 9993
+The number of people in the park is: 29997
+
+
+Test 5: Cars/People leave park. Cars and people are both above before hand, and this call leaves  people above, but cars drops below. 
+ Car message should be displayed.
+100 cars and 10 people leave 
+
+The enter call here sets up the next test conditions.
+
+***Warning, park capacity exceeded!***
+
+The number of cars in the park is: 10093
+The number of people in the park is: 30097
+
+
+Below is the test output.
+
+***Notice: There are now less than 10,000 cars in the park.***
+
+The number of cars in the park is: 9993
+The number of people in the park is: 30087
+
+Test 6: Cars/People leave the park. Cars and people are both above before hand, and this call leaves 
+both above. 
+ There should be no output.
+ 1 car and 1 person leave.
+
+This is a dummy run to set up the subsequent test
+
+***Warning, park capacity exceeded!***
+
+The number of cars in the park is: 10093
+The number of people in the park is: 30177
+
+
+The following blank demonstrates that there was no test outuput.
+
+
+Test 7: Cars/People leave the park. Cars and people are both above before hand, and this call leaves 
+both above. 
+ There should be no output.
+5000 cars and 10000 people leave.
+
+***Notice: There are now less than 30,000 people in the park.***
+
+***Notice: There are now less than 10,000 cars in the park.***
+
+The number of cars in the park is: 5092
+The number of people in the park is: 20176
+
+
+
