@@ -1,0 +1,19 @@
+Buyer Buyer Number 
+
+Sarah       1   
+Lance       2   
+Brenda      3   
+Jackie      4   
+Len         5   
+LaToya      6   
+Bill        7   
+Lannette    8   
+Ken         9   
+Josh        10  
+Jerry       11  
+Bobbie      12  
+Cindy       13  
+Jackie      14  
+Randy       15  
+Hillary     16  
+Jessie      17  

@@ -1,0 +1,19 @@
+Seller Name Seller ID
+
+Steve       ST  
+Mary        MA  
+Mark        MK  
+Chris       CS  
+Anysha      AN  
+Andy        AY  
+Kim         KI  
+Bobbie      BO  
+Lynn        LY  
+Charlie     CH  
+Tom         TO  
+Barbie      BA  
+Sam         SA  
+June        JU  
+Kelly       KE  
+Larry       LA  
+Adam        AD  

@@ -1,0 +1,7 @@
+Prod.# Prod. Desc.                 Price   Q  T. Val.
+154    Crest Toothpaste             3.98  23   91.54
+202    Diet Coke                    1.25 204  255.00
+123    M & M's                      0.75  42   31.50
+998    Birthday Card                3.50  31  108.50
+287    Hair Dryer                  29.98   8  239.84
+652    Lawn Mower                 475.00  14 6650.00

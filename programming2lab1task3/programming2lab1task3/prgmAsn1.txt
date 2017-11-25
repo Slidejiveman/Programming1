@@ -1,0 +1,4 @@
+Case 3 
+Algorithm 	 N 	 Exchanges 	 Comparisons
+Bubble Sort	20	    78		    266
+Selection Sort	20	    34		    190

@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: Programming Assignment 2, Configuration: Debug Win32 ------
+1>  Math Tutor.cpp
+1>c:\users\ryderdale\documents\visual studio 2013\projects\programming assignment 2\programming assignment 2\math tutor.cpp(23): warning C4244: 'initializing' : conversion from 'time_t' to 'unsigned int', possible loss of data
+1>  Programming Assignment 2.vcxproj -> C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 2\Debug\Programming Assignment 2.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

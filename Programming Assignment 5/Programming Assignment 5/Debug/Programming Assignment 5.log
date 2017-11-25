@@ -1,0 +1,16 @@
+﻿Build started 10/24/2014 3:50:10 PM.
+     1>Project "C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Programming Assignment 5\Programming Assignment 5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Programming Assignment 5.cpp"
+         Programming Assignment 5.cpp
+     1>c:\users\ryderdale\documents\visual studio 2013\projects\programming assignment 5\programming assignment 5\programming assignment 5.cpp(34): warning C4244: 'initializing' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\ryderdale\documents\visual studio 2013\projects\programming assignment 5\programming assignment 5\programming assignment 5.cpp(28): warning C4101: 'number1' : unreferenced local variable
+     1>c:\users\ryderdale\documents\visual studio 2013\projects\programming assignment 5\programming assignment 5\programming assignment 5.cpp(28): warning C4101: 'number2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Debug\Programming Assignment 5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Debug\Programming Assignment 5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Debug\Programming Assignment 5.lib" /MACHINE:X86 "Debug\Programming Assignment 5.obj"
+     1>LINK : fatal error LNK1168: cannot open C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Debug\Programming Assignment 5.exe for writing
+     1>Done Building Project "C:\Users\RyderDale\Documents\Visual Studio 2013\Projects\Programming Assignment 5\Programming Assignment 5\Programming Assignment 5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.64

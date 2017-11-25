@@ -1,0 +1,30 @@
+Item ID Description Minimum Bid 
+
+ST001            Scianochromis freyeri  0.00
+ST002              Pseudotropheus acei  0.00
+MA001          Paracyprochromis brieni  5.00
+MK001             Pseudotropheus Zebra  0.00
+MK002          Pseudotropheus demasoni  0.00
+MK003         Tropheus duboisi "Maswa"  0.00
+CS001              Aulonocara baenschi  0.00
+CS002          Aulonocara stuartgranti  0.00
+AN001            Scianochromis freyeri  0.00
+AY001            Lamprologus ocellatus  0.00
+AY002                   Theraps regani  0.00
+KI001             Altolamplogus calvus  0.00
+BO001         Pseudotropheus flameback  0.00
+BO002           Ophthalmotilipia boops  0.00
+LY001       Julidochromis transcriptus  0.00
+LY002              Pseudotropheus Acei  0.00
+CH001                Thoricthys aureum  0.00
+CH002         Pseudotropheus demansoni  0.00
+CH003                Hericthys bartoni  0.00
+CH004             Cyphotilpia frontosa 25.00
+TO001           Julidochromis marlieri  0.00
+BA001        Symphysodon (Blue Discus)  0.00
+SA001    Neolamprologus multifasciatus  0.00
+SA002       Placidochromis phenochilus 15.00
+BI001         Labeotrophius trewavasae  0.00
+KE001          Lamprologus lelupi (pr) 20.00
+LA001             Cyphotilpia frontosa 25.00
+AD001                     Black Angels  0.00

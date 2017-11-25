@@ -1,0 +1,42 @@
+
+Fuel left in tank: 12
+Mileage: 0
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 0
+
+
+Fuel left in tank: 10.1212
+Mileage: 31
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 16.5
+
+
+Fuel left in tank: 7.03479
+Mileage: 106
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 21.3486
+
+
+Fuel left in tank: 6.37785
+Mileage: 316
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 20.3182
+
+
+Fuel left in tank: 9.37785
+Mileage: 316
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 20.3182
+
+
+Fuel left in tank: 0
+Mileage: 516
+Average MPG in city : 16.5
+Average MPG on highway: 24.3
+Average total MPG: 18.6458
+

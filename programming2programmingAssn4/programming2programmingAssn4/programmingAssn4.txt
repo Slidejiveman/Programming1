@@ -1,0 +1,240 @@
+
+The list is empty.
+
+RD001 was added to the list. 
+GH322 was added to the list. 
+BD123 was added to the list. 
+SB021 was added to the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+BD123          Mark       Jerry         $10.56
+
+GH322          Mary         Tom         $110.00
+
+RD001           Joe        Bill         $25.00
+
+SB021         Chris         Tom         $1087.99
+
+BC001 was added to the list. 
+SX112 was added to the list. 
+ZZ111 was added to the list. 
+RD003 was added to the list. 
+GH001 was added to the list. 
+BD002 was added to the list. 
+MD034 was added to the list. 
+BC002 was added to the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+SB021         Chris         Tom         $1087.99
+
+SX112          Andy       Lance         $86.12
+
+ZZ111        Brenda     Charles         $11.11
+
+That item is NOT in the list. 
+RD004 was added to the list. 
+SX102 was added to the list. 
+ZZ001 was added to the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+RD004        Barbie         Ken         $14.00
+
+SB021         Chris         Tom         $1087.99
+
+SX102           Sam        Josh         $10.00
+
+SX112          Andy       Lance         $86.12
+
+ZZ001          Bill       Jerry         $14.56
+
+ZZ111        Brenda     Charles         $11.11
+
+That item is in the list. 
+SX102 was removed from the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+RD004        Barbie         Ken         $14.00
+
+SB021         Chris         Tom         $1087.99
+
+SX112          Andy       Lance         $86.12
+
+ZZ001          Bill       Jerry         $14.56
+
+ZZ111        Brenda     Charles         $11.11
+
+AG001 was added to the list. 
+SX103 was added to the list. 
+RD105 was added to the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+AG001          Mark      Bobbie         $10.00
+
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+RD004        Barbie         Ken         $14.00
+
+RD105         Larry      Jackie         $210.56
+
+SB021         Chris         Tom         $1087.99
+
+SX103          Keri       Jenny         $45.66
+
+SX112          Andy       Lance         $86.12
+
+ZZ001          Bill       Jerry         $14.56
+
+ZZ111        Brenda     Charles         $11.11
+
+That item is in the list. 
+ZZ111 was removed from the list. 
+That item was not in the list, so it was not deleted.
+
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+AG001          Mark      Bobbie         $10.00
+
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+RD004        Barbie         Ken         $14.00
+
+RD105         Larry      Jackie         $210.56
+
+SB021         Chris         Tom         $1087.99
+
+SX103          Keri       Jenny         $45.66
+
+SX112          Andy       Lance         $86.12
+
+ZZ001          Bill       Jerry         $14.56
+
+MD003 was added to the list. 
+AG002 was added to the list. 
+BD007 was added to the list. 
+Item ID      Seller       Buyer   Sales Price
+----------------------------------------------
+AG001          Mark      Bobbie         $10.00
+
+AG002         Grace     Hillary         $15.88
+
+BC001        Anysha      LaToya         $12.50
+
+BC002           Tom    Lannette         $65.00
+
+BD002         Larry        Lynn         $18.15
+
+BD007         Sarah        Adam         $23.12
+
+BD123          Mark       Jerry         $10.56
+
+GH001          Lynn         Len         $12.00
+
+GH322          Mary         Tom         $110.00
+
+MD003          Bill       Randy         $23.00
+
+MD034          Mary        Bill         $54.54
+
+RD001           Joe        Bill         $25.00
+
+RD003        Bobbie      Jackie         $150.00
+
+RD004        Barbie         Ken         $14.00
+
+RD105         Larry      Jackie         $210.56
+
+SB021         Chris         Tom         $1087.99
+
+SX103          Keri       Jenny         $45.66
+
+SX112          Andy       Lance         $86.12
+
+ZZ001          Bill       Jerry         $14.56
+
+Thank you for using this program. Goodbye.

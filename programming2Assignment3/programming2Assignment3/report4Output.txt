@@ -1,0 +1,7 @@
+Date        Check#/Deposit Amount
+03-01-2015  Deposit       800.00
+03-06-2015  Deposit       450.04
+03-14-2015  Deposit       700.00
+
+Deposit Total: $1950.04
+
